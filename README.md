@@ -3,6 +3,7 @@
 A minimal, post-centric blog application built using **PHP** and **PDO (PHP Data Objects)**. This project is designed specifically for learning core CRUD (Create, Read, Update, Delete) operations with dedicated PHP scripts for each action and no authentication layer to keep concepts clear and focused.
 
 Lazily generated with Gemini Auto Low ([https://share.gemini.google/cX1TRLr1VX9F](https://share.gemini.google/cX1TRLr1VX9F)).
+
 ---
 
 ## 🌟 Key Educational Features
