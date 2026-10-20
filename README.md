@@ -55,8 +55,8 @@ Ensure you have the following installed on your local machine:
 2. Create the database and table using the provided `schema.sql` queries:
 
 ```sql
-CREATE DATABASE IF NOT EXISTS simple_blog;
-USE simple_blog;
+CREATE DATABASE IF NOT EXISTS php_pdo_blog;
+USE php_pdo_blog;
 
 CREATE TABLE IF NOT EXISTS posts (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -74,7 +74,7 @@ Open `db.php` and update the connection settings to match your database user and
 
 ```php
 $host = 'localhost';
-$db   = 'simple_blog';
+$db   = 'php_pdo_blog';
 $user = 'root'; // Change to your database username
 $pass = '';     // Change to your database password
 ```
